@@ -1,0 +1,6 @@
+.git/**
+.gitattributes
+.gitignore
+README.md
+.idea/**
+.idea
