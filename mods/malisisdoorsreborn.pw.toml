@@ -1,0 +1,13 @@
+name = "MalisisDoorsReborn"
+filename = "malisisdoorsreborn-neoforge-1.21.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YCMUEMNi/versions/WaB0P2ck/malisisdoorsreborn-neoforge-1.21.1-1.0.5.jar"
+hash-format = "sha512"
+hash = "5cf47ebde3c85d91e4fde6fa39c5d04acc18fa3143999425e8287dbe6d3eba1f18db63f70b74f030085d835a81ed6567451c484d163f2db03768230d74b31414"
+
+[update]
+[update.modrinth]
+mod-id = "YCMUEMNi"
+version = "WaB0P2ck"

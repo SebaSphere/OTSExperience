@@ -1,0 +1,13 @@
+name = "Cobblemon : Simple Pokecenter"
+filename = "cobblemon_simple_center-neoforge-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b8853d2021ec7a6a3d796010afc2d3612470779"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8093745
+project-id = 1274465

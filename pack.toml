@@ -1,0 +1,16 @@
+name = "OTS Experience"
+author = "spheredev"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b6a654b4f07e0b70ec5e0056b2ea917754090668b962d0e8b4b8b3826d1678bf"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.252"
+
+[options]
+acceptable-game-versions = ["1.21"]

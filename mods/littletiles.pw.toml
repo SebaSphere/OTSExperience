@@ -1,0 +1,13 @@
+name = "LittleTiles"
+filename = "LittleTiles_BETA_v1.6.0-pre232_mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fcbf0533846960cb3dd53b645bb4c24159160989"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9036449
+project-id = 257818
