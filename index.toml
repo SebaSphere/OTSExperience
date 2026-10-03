@@ -3276,6 +3276,11 @@ hash = "e3a629fe7b4cfb64098081c43cc32796bb25c06179b0ce80410c976d2c285cca"
 metafile = true
 
 [[files]]
+file = "mods/fortnicraft.pw.toml"
+hash = "bca4b07eaf201add9625dc41491192433659d7bb7483296e2ef49925f81e28a0"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "4cf7eb494f48576e28895ee5f362878f95c6bad65372666106140fdae82d0c4c"
 metafile = true

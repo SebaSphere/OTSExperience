@@ -1,0 +1,13 @@
+name = "Fortnicraft"
+filename = "fortnicraft-1.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dyJ4FmAh/versions/kPl3nvFq/fortnicraft-1.2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "50053e98987b4d8efff22da8ecb9d2925f4dfd27acf2bc715d59aa965433e57d415b632e58685605ca8ba20a4cda5efbad5724f85d8a73e86e36b53deb31c305"
+
+[update]
+[update.modrinth]
+mod-id = "dyJ4FmAh"
+version = "kPl3nvFq"
