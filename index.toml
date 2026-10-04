@@ -3105,6 +3105,106 @@ file = "config/cobblemon/spawning/best-spawner-config.json"
 hash = "f70e023b83b3705db0b0879c7eb66096dbf5b97249d32808a8671e43df2ba386"
 
 [[files]]
+file = "config/fancymenu/assets/ots/button_hover.png"
+hash = "e7aa57958a0914820d047d3f94722a204e453f896f930121f523737e6fb380bf"
+
+[[files]]
+file = "config/fancymenu/assets/ots/button_inactive.png"
+hash = "3ba87d1dddbe5dab34dbcca28292b2aa6d86f7e88b4001fe595f35751dd1e943"
+
+[[files]]
+file = "config/fancymenu/assets/ots/button_normal.png"
+hash = "25d742ab7369402c542099b994ad925f2fa11a3c981460eb32b04dce72acd64f"
+
+[[files]]
+file = "config/fancymenu/assets/ots/join_hover.png"
+hash = "98e42ea06142c83d777dd2bc2177343f06c3caa8faeee87362aa04c0b5a30eab"
+
+[[files]]
+file = "config/fancymenu/assets/ots/join_normal.png"
+hash = "c4ce7311e98761d368f9d3b41e43a0cb52a54cddf856d590821d1d856e1d0622"
+
+[[files]]
+file = "config/fancymenu/assets/ots/noise.png"
+hash = "3fcf5ef009c259a5132f76296a1966ab984bb2f2416f56a5fa82d4b197d99840"
+
+[[files]]
+file = "config/fancymenu/assets/ots/panel.png"
+hash = "a94625884a01529fbf14ccce8edbdfd172a7ed8ca503674050384999996b562e"
+
+[[files]]
+file = "config/fancymenu/assets/ots/splash.txt"
+hash = "471bdaa8a82bc1116bf611260029da84e8f09769364849011ee081f2743b8739"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "fa59ba413e2a54f7069a5791bd65c8a0a1334db156ca7e61611d13591a5f36d4"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "8ab246f419b5b363ab186db80fad034e743675450c90cca80f1f4aef1dd813c6"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/fancymenu/video_element_controller_metas.json"
+hash = "48d0f3afe41255d13b5e6fb0db318fbd07831aece1bbf883fa9bb5bed1b663b7"
+
+[[files]]
 file = "config/iceandfire/iaf-client.json"
 hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
 
