@@ -3093,10 +3093,6 @@ file = ".venv/pyvenv.cfg"
 hash = "722b6d875bbaf7fe0ffc31beba058139fd4ed8e131ebadc3fb40cc7aeba9f2d3"
 
 [[files]]
-file = "config/accessories.json5"
-hash = "8f88bbd16f42d837582885a8822cda74cea569766c80d4e89b74028499e012b8"
-
-[[files]]
 file = "config/ars_nouveau-server.toml"
 hash = "74e43c97096cc80ba8d8a1966ecc63b1cf57ee0116fb32f8821f777e4c78fc60"
 
@@ -3118,7 +3114,7 @@ hash = "5ba0f45591f92a225037bc4df4b3948251345e50dfeaab5fbda4b87d7225aeaf"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "0e013962ea9549795cf4a8b05f546a23cdace35d8138a09f4d92651ea6422d00"
+hash = "fa78670ce2072d9dff53c576df2d96ceca5bfafc4db833fbd8e751ee2f42216d"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -3510,6 +3506,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "a63036d889fa809b62a17eb0588f27d98ea472d57b2cf926cf6e42bc746646d3"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
