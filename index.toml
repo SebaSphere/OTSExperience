@@ -3134,7 +3134,7 @@ hash = "a94625884a01529fbf14ccce8edbdfd172a7ed8ca503674050384999996b562e"
 
 [[files]]
 file = "config/fancymenu/assets/ots/splash.txt"
-hash = "471bdaa8a82bc1116bf611260029da84e8f09769364849011ee081f2743b8739"
+hash = "4512089f6a6b629ab6545ddd1e31c6a146f22f1479e20fe307236e27036086e4"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -3146,7 +3146,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "fa59ba413e2a54f7069a5791bd65c8a0a1334db156ca7e61611d13591a5f36d4"
+hash = "11e23856f5ff7f5a660a7d74aadc191c907f4eca716b951d403a0805823e0164"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
