@@ -3109,6 +3109,18 @@ file = "config/cobblemon/spawning/best-spawner-config.json"
 hash = "f70e023b83b3705db0b0879c7eb66096dbf5b97249d32808a8671e43df2ba386"
 
 [[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
+
+[[files]]
+file = "config/iceandfire/iaf-common.json"
+hash = "5ba0f45591f92a225037bc4df4b3948251345e50dfeaab5fbda4b87d7225aeaf"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "0e013962ea9549795cf4a8b05f546a23cdace35d8138a09f4d92651ea6422d00"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -3129,6 +3141,11 @@ hash = "9efd2467725934e660f256346950d4e10ca44f034475ce8909a29fe0790dd5cc"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas.pw.toml"
+hash = "d5048142116637b820bff30b6c5afbe83a293a71968483c6eb8c323390827e3d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
@@ -3141,6 +3158,11 @@ metafile = true
 [[files]]
 file = "mods/athena.pw.toml"
 hash = "38bddea8d550568799dd7f208c0bbe10280de3e456016a0d59aa20de112a2345"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "0f6b24d697903dc261c881c4a736ec57c57ed5384f23d77ca9f6cec1e954d559"
 metafile = true
 
 [[files]]
@@ -3501,6 +3523,11 @@ hash = "af81a45b2bc9919501e3bade081ff53f8af244e322a1e945da48c7a66ab0f19b"
 metafile = true
 
 [[files]]
+file = "mods/unionlib.pw.toml"
+hash = "381686059e3d448c157f3fc7e0ed2993b74ad2e1eea81a1c2a63baf158234982"
+metafile = true
+
+[[files]]
 file = "mods/uranus.pw.toml"
 hash = "ba468b0e9e8ff229fdbaa7fc1efc6f43236cdafe7570b0ba2b51874ddbc1880b"
 metafile = true
@@ -3508,6 +3535,11 @@ metafile = true
 [[files]]
 file = "mods/via-romana.pw.toml"
 hash = "1e203d2e26a0b6c91f8e565b4e49c3084cb7d077c3c481d8b7f4f055706c8c8b"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "cfc3d0abc9c387a708d246bef5f90481cd62adee3b6ed7e0932042de2bdbcc3e"
 metafile = true
 
 [[files]]
