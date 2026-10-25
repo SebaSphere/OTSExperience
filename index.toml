@@ -575,7 +575,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
-
-[[files]]
-file = "packwiz-mods.py"
-hash = "201a101d39a7c5056ab7ba767fcf15359e40dd26a4e1dbb9ebe2ceec2752f83b"
